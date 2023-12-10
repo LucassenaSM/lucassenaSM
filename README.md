@@ -1,7 +1,7 @@
 # Oii, Eu sou o Lucas Sena :wave:
 <div align = "center">
-<img align = "left" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucassenaSM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-<img align = "right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassenaSM&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+<img width = "48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucassenaSM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+<img width = "48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassenaSM&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 
 <img align = "center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucassenaSM&theme=tokyonight&hide_border=true">
 </div>
